@@ -4,6 +4,8 @@ Students project in react.
 # TODO:
 - [x] Rewrite old code to new project
 - [ ] Google Address Input Hints
-- [ ] Radius to MapAPI value
-- [ ] Code GPS nad GoogleMaps to show nearby locals
-- [ ] Code Web Api (CRUD for adding pictures and their descriptions)
+- [x] Radius to MapAPI value
+- [x] Code GPS nad GoogleMaps to show nearby locals
+- [x] Code Web Api (CRUD for adding pictures and their descriptions)
+- [ ] Use WEB API 2 in app
+- [ ] Dynamic locals to list loading 
